@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning REACT.js and MONGO DB
 - 💞️ I’m looking to collaborate on ... WordPress Full-Stack Design and Development
 - 📫 How to reach me ag1344587@gmail.com
-- 📧 ag1344587@gmail.com
 - 🏢 Worked as a Intern at  Apport Software Solutions Private Limited as a 👷‍♂️ Front-end Developer
 - ⚡ Fun fact: HTML is not Programming Language and Mitochondria is the Powerhouse of the Cell
 
