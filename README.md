@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @official-abhi07<br>👀 I’m interested in designing<br>🌱 I’m currently learning REACT.js and MONGO DB<br>💞️ I’m looking to collaborate on ... WordPress Full-Stack Design and Development<br>📫 How to reach me ag1344587@gmail.com<br>🏢 Worked as a Intern at Apport Software Solutions Private Limited as a 👷‍♂️ Front-end Developer<br>⚡ Fun fact: HTML is not Programming Language and Mitochondria is the Powerhouse of the Cell
 
-<img align="right" alt="codong" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fhacktiv8&psig=AOvVaw3c0o701Ge_xwrh3sRvLZTm&ust=1723664582810000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCayJPd8ocDFQAAAAAdAAAAABAE"
+<img align="right" alt="codong" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fhacktiv8&psig=AOvVaw3c0o701Ge_xwrh3sRvLZTm&ust=1723664582810000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCayJPd8ocDFQAAAAAdAAAAABAE"/>
 
 
 ## 🌐 Socials:
