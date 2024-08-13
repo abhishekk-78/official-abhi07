@@ -1,7 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m @official-abhi07<br>👀 I’m interested in designing<br>🌱 I’m currently learning REACT.js and MONGO DB<br>💞️ I’m looking to collaborate on ... WordPress Full-Stack Design and Development<br>📫 How to reach me ag1344587@gmail.com<br>🏢 Worked as a Intern at Apport Software Solutions Private Limited as a 👷‍♂️ Front-end Developer<br>⚡ Fun fact: HTML is not Programming Language and Mitochondria is the Powerhouse of the Cell
-
+👋 Hi, I’m @official-abhi07<br>👀 I’m interested in designing<br>🌱 I’m currently learning REACT.js and MONGO DB<br>💞️ I’m looking to collaborate on ... WordPress Full-Stack Design and Development<br>📫 How to reach me ag1344587@gmail.com<br>
 <img align="right" alt="codong" width="400" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+🏢 Worked as a Intern at Apport Software Solutions Private Limited as a 👷‍♂️ Front-end Developer<br>⚡ Fun fact: HTML is not Programming Language and Mitochondria is the Powerhouse of the Cell
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekgupta_78) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Official_abhi07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VectorAbhi) 
